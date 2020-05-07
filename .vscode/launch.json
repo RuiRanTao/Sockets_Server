@@ -1,0 +1,133 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - server1",
+            "request": "launch",
+            "mainClass": "src.server1",
+            "projectName": "Sockets_e99b37d3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - timetest",
+            "request": "launch",
+            "mainClass": "src.timetest",
+            "projectName": "Sockets_e9f49d9d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mesquite_site",
+            "request": "launch",
+            "mainClass": "src.mesquite_site",
+            "projectName": "Sockets_e9f49d9d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mesquite_user",
+            "request": "launch",
+            "mainClass": "src.mesquite_user",
+            "projectName": "Sockets_e9f49d9d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test1",
+            "request": "launch",
+            "mainClass": "src.test1",
+            "projectName": "Sockets_e9f49d9d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringSplit",
+            "request": "launch",
+            "mainClass": "src.StringSplit",
+            "projectName": "Sockets_e9f49d9d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "src.test",
+            "projectName": "Sockets_e9f49d9d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - daemon",
+            "request": "launch",
+            "mainClass": "src.daemon",
+            "projectName": "Sockets_e9f49d9d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DaemonDemo",
+            "request": "launch",
+            "mainClass": "src.DaemonDemo",
+            "projectName": "Sockets_e9f49d9d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mesquite",
+            "request": "launch",
+            "mainClass": "src.mesquite",
+            "projectName": "Sockets_e9f49d9d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - server1",
+            "request": "launch",
+            "mainClass": "src.server1",
+            "projectName": "Sockets_e9f49d9d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - client1",
+            "request": "launch",
+            "mainClass": "src.client1",
+            "projectName": "Sockets_e9f49d9d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mesquite",
+            "request": "launch",
+            "mainClass": "mesquite",
+            "projectName": "Sockets_e9f49d9d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringSplit",
+            "request": "launch",
+            "mainClass": "StringSplit",
+            "projectName": "Sockets_e9f49d9d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - client1",
+            "request": "launch",
+            "mainClass": "client1",
+            "projectName": "Sockets_e9f49d9d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - client1",
+            "request": "launch",
+            "mainClass": "client1",
+            "projectName": "Sockets_a09bd9b2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - client1",
+            "request": "launch",
+            "mainClass": "client1",
+            "projectName": "vscode_91ba4681"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "server1"
+        }
+    ]
+}
